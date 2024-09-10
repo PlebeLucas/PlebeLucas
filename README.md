@@ -1,3 +1,4 @@
+      
 <body>
   <center>
 <h1 align="center">𝙱𝚎𝚖 𝚟𝚒𝚗𝚍𝚘 𝚊𝚘 𝚖𝚎𝚞 𝚖𝚞𝚗𝚍𝚘</h1>
@@ -8,9 +9,7 @@
 </div>
 <br> 
   
-<p align="left">
-  
- # Um pouco sobre mim: 
+ # <p align="left"> Um pouco sobre mim: 
   <img hight="600" width="500" alt="GIF" align="right" src="assets/KbD2r9.gif">
   <p align="left"> Tenho 20 anos morando em CWB. </p>
   <p align="left"> sou viciado em Hacking Ético e Engenharia Social. E busco oportunidades e projetos na área, para que possa buscar o desonhecimento. </p>
@@ -29,6 +28,16 @@
 <p align="left">- 🎎 Apreciador de animes e cultura oriental.</p>
 <p align="left">- 🎵 EDM e JDM</p>
 
+</br>
+</br>
+</br>
+
+# <p align="left"> Tech-Skills: 
+<img align="center" alt="Linux" width="70" hight="70" src=https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg />
+<img align="center" alt="Python" width="70" hight="70" src=https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-plain.svg />          
+<img align="center" alt="MySQL" width="70" hight="70" src=https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-plain-wordmark.svg />
+<img align="center" alt="Windows" width="70" hight="70" src=https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows11/windows11-original.svg/>
+<img align="center" alt="Bash" width="70" hight="70" src=https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg/>
 </br>
 </br>
 </br>
